@@ -2,6 +2,8 @@
 
 [![Build Status](https://rackdevops.visualstudio.com/CodeTesting/_apis/build/status/villanub.API-Playground)](https://rackdevops.visualstudio.com/CodeTesting/_build/latest?definitionId=2)
 
+[![Build Status](https://rackdevops.visualstudio.com/RACK-API-Playground/_apis/build/status/RACK-API-Playground%20-%20CI)](https://rackdevops.visualstudio.com/RACK-API-Playground/_build/latest?definitionId=3)
+
 ### Description
 This solution contains a utility web page for testing APIs. It is based on Visual Studio 2017 and .NET Core 2.
 
